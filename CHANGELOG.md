@@ -7,3 +7,6 @@
 # 1.0.1
 * Fixed minor bugs in the networking module
 * Plugin implementation 
+
+# 1.0.2  
+* Error fixed from gradle file
