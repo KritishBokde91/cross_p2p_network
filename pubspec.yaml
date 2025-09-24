@@ -1,6 +1,6 @@
 name: cross_p2p_network
 description: A cross-platform Flutter plugin for P2P attendance systems with Wi-Fi Aware and hotspot support
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/KritishBokde91/cross_p2p_network
 
 environment:
